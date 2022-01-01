@@ -6,5 +6,5 @@ To delete a remote branch:
 To delete a local branch:
 
 "git branch -d branch_name"
-![adding img to read me file](download.png)
+![adding img to read me file](./download.png)
 
